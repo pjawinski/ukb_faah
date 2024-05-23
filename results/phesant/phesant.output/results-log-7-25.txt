@@ -1,0 +1,6 @@
+5984_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5985_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5986_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5987_0 || Variable could not be found in pheno info file. 
+5988_0 || Variable could not be found in pheno info file. 
+5991_0 || Variable could not be found in pheno info file. 

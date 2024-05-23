@@ -1,0 +1,293 @@
+41284_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <3840, bin 2: >=3840 AND < 9999, bin 3: ==9999 || cat N: 3350, 3398, 3549 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+41285_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <1, bin 2: >=1AND < 3, bin 3: >=3 || cat N: 892, 3311, 2517 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+41286_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+42001_0|| CAT-SINGLE || Inc(>=10): 21(4965) || Inc(>=10): 11(8973) || Inc(>=10): 0(5641) || Inc(>=10): 12(665) || Inc(>=10): 22(81) || CAT-SINGLE-UNORDERED || reference: 11=8973 || SUCCESS results-notordered-logistic 
+42003_0|| CAT-SINGLE || Inc(>=10): 11(5071) || Inc(>=10): 21(497) || Removed 22: 2<10 examples || Removed 12: 1<10 examples || CAT-SINGLE-BINARY || sample 5071/497(5568) || SUCCESS results-logistic-binary 
+42005_0|| CAT-SINGLE || Inc(>=10): 11(6614) || Inc(>=10): 21(1280) || Inc(>=10): 12(947) || Inc(>=10): 22(123) || CAT-SINGLE-UNORDERED || reference: 11=6614 || SUCCESS results-notordered-logistic 
+42007_0|| CAT-SINGLE || Inc(>=10): 11(8325) || Inc(>=10): 21(905) || Inc(>=10): 0(4061) || Inc(>=10): 12(238) || Inc(>=10): 22(132) || CAT-SINGLE-UNORDERED || reference: 11=8325 || SUCCESS results-notordered-logistic 
+42009_0|| CAT-SINGLE || Inc(>=10): 11(7249) || Inc(>=10): 21(829) || Inc(>=10): 22(163) || Inc(>=10): 12(135) || Removed 0: 8<10 examples || CAT-SINGLE-UNORDERED || reference: 11=7249 || SUCCESS results-notordered-logistic 
+42011_0|| CAT-SINGLE || Inc(>=10): 11(1244) || Inc(>=10): 0(88) || Inc(>=10): 21(315) || Inc(>=10): 22(61) || Inc(>=10): 12(102) || CAT-SINGLE-UNORDERED || reference: 11=1244 || SUCCESS results-notordered-logistic 
+42013_0|| CAT-SINGLE || Inc(>=10): 21(143) || Inc(>=10): 0(237) || Inc(>=10): 11(916) || Inc(>=10): 12(72) || Removed 22: 9<10 examples || CAT-SINGLE-UNORDERED || reference: 11=916 || SUCCESS results-notordered-logistic 
+42015_0|| CAT-SINGLE || Inc(>=10): 21(10311) || Inc(>=10): 0(38370) || Inc(>=10): 11(572) || Removed 22: 6<10 examples || CAT-SINGLE-UNORDERED || reference: 0=38370 || SUCCESS results-notordered-logistic 
+42017_0|| CAT-SINGLE || Inc(>=10): 21(13145) || Inc(>=10): 0(5338) || Inc(>=10): 11(1429) || Inc(>=10): 22(130) || Inc(>=10): 12(47) || CAT-SINGLE-UNORDERED || reference: 21=13145 || SUCCESS results-notordered-logistic 
+42019_0|| CAT-SINGLE || Inc(>=10): 12(203) || Inc(>=10): 21(5623) || Inc(>=10): 11(744) || Inc(>=10): 0(78) || Inc(>=10): 22(123) || CAT-SINGLE-UNORDERED || reference: 21=5623 || SUCCESS results-notordered-logistic 
+42021_0|| CAT-SINGLE || Inc(>=10): 21(2494) || Inc(>=10): 12(144) || Inc(>=10): 11(318) || Inc(>=10): 22(76) || CAT-SINGLE-UNORDERED || reference: 21=2494 || SUCCESS results-notordered-logistic 
+42023_0|| CAT-SINGLE || Inc(>=10): 12(67) || Inc(>=10): 21(1238) || Inc(>=10): 22(42) || Inc(>=10): 11(120) || CAT-SINGLE-UNORDERED || reference: 21=1238 || SUCCESS results-notordered-logistic 
+42025_0|| CAT-SINGLE || Inc(>=10): 21(140) || Inc(>=10): 11(48) || Removed 22: 6<10 examples || Inc(>=10): 12(13) || CAT-SINGLE-UNORDERED || CATUNORD-SKIP-500 (201) || 
+42027_0|| CAT-SINGLE || Inc(>=10): 1(829) || Inc(>=10): 0(254) || Inc(>=10): 2(35) || CAT-SINGLE-UNORDERED || reference: 1=829 || SUCCESS results-notordered-logistic 
+42029_0|| CAT-SINGLE || Inc(>=10): 11(267) || Inc(>=10): 0(33) || Inc(>=10): 21(192) || Inc(>=10): 12(42) || Removed 22: 1<10 examples || CAT-SINGLE-UNORDERED || reference: 11=267 || SUCCESS results-notordered-logistic 
+42031_0|| CAT-SINGLE || Inc(>=10): 21(2485) || Inc(>=10): 0(591) || Inc(>=10): 12(39) || Inc(>=10): 11(235) || Inc(>=10): 22(26) || CAT-SINGLE-UNORDERED || reference: 21=2485 || SUCCESS results-notordered-logistic 
+42033_0|| CAT-SINGLE || Inc(>=10): 21(2271) || Inc(>=10): 0(591) || Inc(>=10): 12(21) || Inc(>=10): 11(158) || Inc(>=10): 22(29) || CAT-SINGLE-UNORDERED || reference: 21=2271 || SUCCESS results-notordered-logistic 
+42035_0|| CAT-SINGLE || Inc(>=10): 21(97) || Inc(>=10): 12(21) || Inc(>=10): 11(34) || Removed 22: 3<10 examples || CAT-SINGLE-UNORDERED || CATUNORD-SKIP-500 (152) || 
+42037_0|| CAT-SINGLE || Inc(>=10): 21(68) || Inc(>=10): 11(21) || Removed 12: 8<10 examples || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (89) || 
+90001_0 || Variable could not be found in pheno info file. 
+90002_0|| Excluded cat-single: YES-META || 
+90003_0 || Variable could not be found in pheno info file. 
+90004_0 || Variable could not be found in pheno info file. 
+90010_0 || Variable could not be found in pheno info file. 
+90011_0 || Variable could not be found in pheno info file. 
+90012_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90013_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90015_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(68667) || Inc(>=10): 0(4767) || CAT-SINGLE-BINARY || sample 4767/68667(73434) || SUCCESS results-logistic-binary 
+90016_0|| Excluded cat-single: YES-META || 
+90017_0|| Excluded cat-single: YES-META || 
+90018_0|| Excluded cat-single: YES-META || 
+90019_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90020_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90021_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90022_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90023_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90024_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90025_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90026_0|| CAT-SINGLE || Inc(>=10): 5(17354) || Inc(>=10): 0(13122) || Inc(>=10): 4(17030) || Inc(>=10): 3(12577) || Inc(>=10): 2(12043) || Inc(>=10): 1(1308) || CAT-SINGLE-UNORDERED || reference: 5=17354 || SUCCESS results-notordered-logistic 
+90027_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90028_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90029_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90030_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90031_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90032_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90033_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90034_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90035_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90036_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90037_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90038_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90039_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90040_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90041_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90042_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90043_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90044_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90045_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90046_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90047_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90048_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90049_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90050_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90051_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <6.77, bin 2: >=6.77AND < 6.96, bin 3: >=6.96 || cat N: 24187, 23222, 26025 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90052_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.04, bin 2: >=0.04AND < 0.19, bin 3: >=0.19 || cat N: 23701, 25170, 24563 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90053_0|| Excluded continuous: YES-META || 
+90054_0|| Excluded continuous: YES-META || 
+90055_0|| Excluded continuous: YES-META || 
+90056_0|| Excluded continuous: YES-META || 
+90057_0|| Excluded continuous: YES-META || 
+90058_0|| Excluded continuous: YES-META || 
+90059_0|| Excluded continuous: YES-META || 
+90060_0|| Excluded continuous: YES-META || 
+90061_0|| Excluded continuous: YES-META || 
+90062_0|| Excluded continuous: YES-META || 
+90063_0|| Excluded continuous: YES-META || 
+90064_0|| Excluded continuous: YES-META || 
+90065_0|| Excluded continuous: YES-META || 
+90066_0|| Excluded continuous: YES-META || 
+90067_0|| Excluded continuous: YES-META || 
+90068_0|| Excluded continuous: YES-META || 
+90069_0|| Excluded continuous: YES-META || 
+90070_0|| Excluded continuous: YES-META || 
+90071_0|| Excluded continuous: YES-META || 
+90072_0|| Excluded continuous: YES-META || 
+90073_0|| Excluded continuous: YES-META || 
+90074_0|| Excluded continuous: YES-META || 
+90075_0|| Excluded continuous: YES-META || 
+90076_0|| Excluded continuous: YES-META || 
+90077_0|| Excluded continuous: YES-META || 
+90078_0|| Excluded continuous: YES-META || 
+90079_0|| Excluded continuous: YES-META || 
+90080_0|| Excluded continuous: YES-META || 
+90081_0|| Excluded continuous: YES-META || 
+90082_0|| Excluded continuous: YES-META || 
+90083_0|| Excluded continuous: YES-META || 
+90084_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <12, bin 2: >=12 AND < 24, bin 3: ==24 || cat N: 1315, 1579, 70540 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90085_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <470, bin 2: >=470 AND < 1440, bin 3: ==1440 || cat N: 1673, 1675, 70086 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90086_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <1, bin 2: >=1AND < 2, bin 3: >=2 || cat N: 23424, 17144, 32866 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90087_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90088_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90089_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90090_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <0.78bin 3: >=0.78 || cat N: 72499, 466, 469 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90091_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90092_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90093_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90094_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90095_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90096_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90097_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90098_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90099_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90100_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90101_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90102_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90103_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90104_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90105_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90106_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90107_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90108_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90109_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90110_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90111_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90112_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90113_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90114_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90115_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90116_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90117_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90118_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90119_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90120_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90121_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90122_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90123_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90124_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90125_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90126_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90127_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90128_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90129_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90130_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90131_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90132_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90133_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90134_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90135_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90136_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90137_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.996, bin 2: >=0.996AND < 0.998, bin 3: >=0.998 || cat N: 21887, 15880, 35667 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90138_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.997, bin 2: >=0.997AND < 0.999, bin 3: >=0.999 || cat N: 23367, 21556, 28511 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90139_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.997, bin 2: >=0.997AND < 0.999, bin 3: >=0.999 || cat N: 19286, 20524, 33624 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90140_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.998, bin 2: >=0.998AND < 0.999, bin 3: >=0.999 || cat N: 22810, 12120, 38504 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90141_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.998, bin 2: >=0.998AND < 0.999, bin 3: >=0.999 || cat N: 19360, 11119, 42955 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90142_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.998, bin 2: >=0.998AND < 0.999, bin 3: >=0.999 || cat N: 16429, 10076, 46929 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90143_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.998, bin 2: >=0.998 AND < 1, bin 3: ==1 || cat N: 14041, 31423, 27970 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90144_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 13567, 18084, 41783 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90145_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 8493, 12843, 52098 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90146_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 5738, 8633, 59063 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90147_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 4093, 5877, 63464 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90148_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 2940, 4147, 66347 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90149_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 2068, 3014, 68352 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90150_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 1418, 2293, 69723 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90151_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 970, 1689, 70775 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90152_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 657, 1231, 71546 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90153_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 423, 917, 72094 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90154_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 297, 670, 72467 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90155_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 216, 461, 72757 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90156_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 145, 368, 72921 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90157_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 105, 278, 73051 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90158_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.999, bin 2: ==0.999, bin 3: ==1 || cat N: 66, 210, 73158 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90159_0|| Excluded continuous: YES-META || 
+90160_0|| Excluded continuous: YES-META || 
+90161_0|| Excluded continuous: YES-META || 
+90162_0|| Excluded continuous: YES-META || 
+90163_0|| Excluded continuous: YES-META || 
+90164_0|| Excluded continuous: YES-META || 
+90165_0|| Excluded continuous: YES-META || 
+90166_0|| Excluded continuous: YES-META || 
+90167_0|| Excluded continuous: YES-META || 
+90168_0|| Excluded continuous: YES-META || 
+90169_0|| Excluded continuous: YES-META || 
+90170_0|| Excluded continuous: YES-META || 
+90171_0|| Excluded integer: YES-META || 
+90172_0|| Excluded continuous: YES-META || 
+90173_0|| Excluded continuous: YES-META || 
+90174_0|| Excluded continuous: YES-META || 
+90175_0|| Excluded continuous: YES-META || 
+90176_0|| Excluded continuous: YES-META || 
+90177_0|| Excluded continuous: YES-META || 
+90179_0|| Excluded integer: YES-META || 
+90180_0|| Excluded integer: YES-META || 
+90181_0|| Excluded continuous: YES-META || 
+90182_0|| Excluded integer: YES-META || 
+90183_0|| Excluded integer: YES-META || 
+90184_0|| Excluded integer: YES-META || 
+90185_0|| Excluded integer: YES-META || 
+90186_0|| Excluded integer: YES-META || 
+90187_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+90188_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90189_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.3, bin 2: >=0.3AND < 0.4, bin 3: >=0.4 || cat N: 5802, 26438, 41194 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90190_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90191_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90192_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90193_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90194_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90195_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100001_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100002_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100003_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100004_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100005_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100006_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100007_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100008_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100009_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100010_0|| CAT-SINGLE || Inc(>=10): 10(38679) || Inc(>=10): 5(3571) || Inc(>=10): 15(5989) || ordered || CAT-ORD || order: 5|10|15 || num categories: 3 || SUCCESS results-ordered-logistic
+100011_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100012_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100013_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100014_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100015_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100016_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100017_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100018_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100019_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100020_0|| CAT-SINGLE || Inc(>=10): 1(39494) || Inc(>=10): 0(8745) || CAT-SINGLE-BINARY || sample 8745/39494(48239) || SUCCESS results-logistic-binary 
+100021_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100022_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <24bin 3: >=24 || cat N: 23209, 12218, 12834 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+100023_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100024_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100025_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+100150_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 7692 || Inc(>=10): 4(6644) || Inc(>=10): 2(9805) || Inc(>=10): 6(2670) || Inc(>=10): 3(10539) || Inc(>=10): 0(7692) || Inc(>=10): 5(4906) || Inc(>=10): 1(2743) || Inc(>=10): 7(3240) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100160_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 41795 || Inc(>=10): 0(41795) || Inc(>=10): 2(3312) || Inc(>=10): 5(259) || Inc(>=10): 3(1505) || Inc(>=10): 1(677) || Inc(>=10): 6(72) || Inc(>=10): 4(530) || Inc(>=10): 7(89) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100170_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 43914 || Inc(>=10): 0(43914) || Inc(>=10): 3(693) || Inc(>=10): 2(2521) || Inc(>=10): 1(851) || Inc(>=10): 4(181) || Inc(>=10): 5(45) || Inc(>=10): 6(18) || Inc(>=10): 7(16) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100180_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 42124 || Inc(>=10): 0(42124) || Inc(>=10): 2(3339) || Inc(>=10): 3(1275) || Inc(>=10): 4(372) || Inc(>=10): 7(57) || Inc(>=10): 1(833) || Inc(>=10): 5(182) || Inc(>=10): 6(57) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100190_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 35375 || Inc(>=10): 0(35375) || Inc(>=10): 2(7485) || Inc(>=10): 1(4061) || Inc(>=10): 3(1129) || Inc(>=10): 5(39) || Inc(>=10): 4(138) || Removed 7: 7<10 examples || Removed 6: 5<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 6 || SUCCESS results-ordered-logistic
+100200_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46753 || Inc(>=10): 0(46753) || Inc(>=10): 1(558) || Inc(>=10): 2(801) || Inc(>=10): 3(102) || Inc(>=10): 4(15) || Removed 7: 3<10 examples || Removed 6: 2<10 examples || Removed 5: 5<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 5 || SUCCESS results-ordered-logistic
+100210_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 42207 || Inc(>=10): 0(42207) || Inc(>=10): 2(3605) || Inc(>=10): 1(1511) || Inc(>=10): 3(730) || Inc(>=10): 5(37) || Inc(>=10): 4(135) || Removed 6: 5<10 examples || Removed 7: 9<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 6 || SUCCESS results-ordered-logistic
+100220_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46965 || Inc(>=10): 0(46965) || Inc(>=10): 1(320) || Inc(>=10): 2(809) || Inc(>=10): 4(26) || Inc(>=10): 3(109) || Removed 7: 3<10 examples || Removed 5: 6<10 examples || Removed 6: 1<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 5 || SUCCESS results-ordered-logistic
+100230_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46022 || Inc(>=10): 0(46022) || Inc(>=10): 1(780) || Inc(>=10): 2(1286) || Inc(>=10): 4(19) || Inc(>=10): 3(124) || Removed 7: 2<10 examples || Removed 5: 5<10 examples || Removed 6: 1<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 5 || SUCCESS results-ordered-logistic
+100240_0|| CAT-SINGLE || Inc(>=10): 0(14018) || Inc(>=10): 1(34221) || CAT-SINGLE-BINARY || sample 14018/34221(48239) || SUCCESS results-logistic-binary 
+100250_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 23832 || Inc(>=10): 0(23832) || Inc(>=10): 6(1489) || Inc(>=10): 5(2713) || Inc(>=10): 3(6841) || Inc(>=10): 2(7818) || Inc(>=10): 4(4358) || Inc(>=10): 7(1030) || Inc(>=10): 1(158) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100260_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 27880 || Inc(>=10): 0(27880) || Inc(>=10): 2(20136) || Inc(>=10): 1(223) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100270_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 38854 || Inc(>=10): 0(38854) || Inc(>=10): 2(4390) || Inc(>=10): 5(440) || Inc(>=10): 4(1124) || Inc(>=10): 3(3045) || Inc(>=10): 7(84) || Inc(>=10): 1(146) || Inc(>=10): 6(156) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100280_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 41870 || Inc(>=10): 0(41870) || Inc(>=10): 2(6288) || Inc(>=10): 1(81) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100290_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 45579 || Inc(>=10): 0(45579) || Inc(>=10): 2(1955) || Inc(>=10): 4(114) || Inc(>=10): 3(491) || Inc(>=10): 5(36) || Inc(>=10): 1(51) || Removed 6: 8<10 examples || Removed 7: 5<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 6 || SUCCESS results-ordered-logistic
+100300_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 45931 || Inc(>=10): 0(45931) || Inc(>=10): 2(1665) || Inc(>=10): 3(463) || Inc(>=10): 4(87) || Inc(>=10): 6(10) || Inc(>=10): 5(17) || Inc(>=10): 1(62) || Removed 7: 4<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100310_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47362 || Inc(>=10): 0(47362) || Inc(>=10): 2(422) || Inc(>=10): 3(231) || Inc(>=10): 5(38) || Inc(>=10): 6(11) || Inc(>=10): 1(93) || Inc(>=10): 4(70) || Inc(>=10): 7(12) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100320_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 48005 || Inc(>=10): 0(48005) || Inc(>=10): 2(223) || Inc(>=10): 1(11) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100330_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47835 || Inc(>=10): 0(47835) || Inc(>=10): 2(216) || Inc(>=10): 3(83) || Inc(>=10): 4(54) || Removed 7: 8<10 examples || Inc(>=10): 5(13) || Inc(>=10): 6(13) || Inc(>=10): 1(17) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100350_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 47991 || Inc(>=10): 0(47991) || Inc(>=10): 2(243) || Removed 1: 5<10 examples || CAT-SINGLE-BINARY || sample 47991/243(48234) || SUCCESS results-logistic-binary 
+100360_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 41045 || Inc(>=10): 0(41045) || Inc(>=10): 2(5621) || Inc(>=10): 1(1573) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100370_0|| CAT-SINGLE || reorder 555|1|2|300 || Default related field: x20082_0_0 || default value 0 set, N= 40913 || Inc(>=10): 0(40913) || Inc(>=10): 3(1452) || Inc(>=10): 1(2004) || Inc(>=10): 2(3747) || Inc(>=10): 4(123) || ordered || CAT-ORD || order: 555|1|2|300 || num categories: 5 || SUCCESS results-ordered-logistic
+100380_0|| CAT-SINGLE || reorder 555|1|2|300 || Default related field: x20082_0_0 || default value 0 set, N= 44983 || Inc(>=10): 0(44983) || Inc(>=10): 3(915) || Inc(>=10): 2(1930) || Inc(>=10): 1(244) || Inc(>=10): 4(167) || ordered || CAT-ORD || order: 555|1|2|300 || num categories: 5 || SUCCESS results-ordered-logistic
+100390_0|| CAT-SINGLE || Inc(>=10): 1(38526) || Inc(>=10): 0(9713) || CAT-SINGLE-BINARY || sample 9713/38526(48239) || SUCCESS results-logistic-binary 
+100400_0|| CAT-SINGLE || Default related field: x20082_0_0 || default value 0 set, N= 13465 || Inc(>=10): 4(6350) || Inc(>=10): 0(13465) || Inc(>=10): 600(4121) || Inc(>=10): 3(7446) || Inc(>=10): 2(7819) || Inc(>=10): 1(4694) || Inc(>=10): 5(4344) || ordered || CAT-ORD || order: 0|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100410_0|| CAT-SINGLE || Default related field: x20082_0_0 || default value 0 set, N= 46490 || Inc(>=10): 0(46490) || Inc(>=10): 2(426) || Inc(>=10): 1(839) || Inc(>=10): 5(67) || Inc(>=10): 4(143) || Inc(>=10): 3(227) || Inc(>=10): 600(47) || ordered || CAT-ORD || order: 0|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100420_0|| CAT-SINGLE || Default related field: x20082_0_0 || default value 0 set, N= 45750 || Inc(>=10): 0(45750) || Inc(>=10): 1(1312) || Inc(>=10): 3(269) || Inc(>=10): 4(172) || Inc(>=10): 2(598) || Inc(>=10): 600(60) || Inc(>=10): 5(78) || ordered || CAT-ORD || order: 0|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100430_0|| CAT-SINGLE || Default related field: x20082_0_0 || default value 0 set, N= 44244 || Inc(>=10): 0(44244) || Inc(>=10): 3(389) || Inc(>=10): 4(222) || Inc(>=10): 1(2233) || Inc(>=10): 5(93) || Inc(>=10): 2(999) || Inc(>=10): 600(59) || ordered || CAT-ORD || order: 0|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100440_0|| CAT-SINGLE || Default related field: x20082_0_0 || default value 0 set, N= 47037 || Inc(>=10): 0(47037) || Inc(>=10): 2(286) || Inc(>=10): 1(470) || Inc(>=10): 4(114) || Inc(>=10): 5(84) || Inc(>=10): 600(73) || Inc(>=10): 3(175) || ordered || CAT-ORD || order: 0|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100460_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 16241 || Inc(>=10): 2(31809) || Inc(>=10): 0(16241) || Inc(>=10): 1(189) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100470_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 45435 || Inc(>=10): 0(45435) || Inc(>=10): 1(461) || Inc(>=10): 2(2343) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100480_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 47342 || Inc(>=10): 0(47342) || Inc(>=10): 2(867) || Inc(>=10): 1(30) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic
+100490_0|| CAT-SINGLE || reorder 555|1|2|300 || Default related field: x20082_0_0 || default value 0 set, N= 42633 || Inc(>=10): 0(42633) || Inc(>=10): 1(1542) || Inc(>=10): 3(1126) || Inc(>=10): 2(2831) || Inc(>=10): 4(107) || ordered || CAT-ORD || order: 555|1|2|300 || num categories: 5 || SUCCESS results-ordered-logistic
+100500_0|| CAT-SINGLE || reorder 555|1|2|300 || Default related field: x20082_0_0 || default value 0 set, N= 45356 || Inc(>=10): 0(45356) || Inc(>=10): 3(817) || Inc(>=10): 4(141) || Inc(>=10): 2(1755) || Inc(>=10): 1(170) || ordered || CAT-ORD || order: 555|1|2|300 || num categories: 5 || SUCCESS results-ordered-logistic
+100510_0|| CAT-SINGLE || Inc(>=10): 0(41852) || Inc(>=10): 1(6387) || CAT-SINGLE-BINARY || sample 41852/6387(48239) || SUCCESS results-logistic-binary 
+100520_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46044 || Inc(>=10): 0(46044) || Inc(>=10): 3(270) || Inc(>=10): 4(56) || Inc(>=10): 2(1339) || Inc(>=10): 1(486) || Inc(>=10): 5(29) || Removed 6: 6<10 examples || Removed 7: 9<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 6 || SUCCESS results-ordered-logistic
+100530_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47153 || Inc(>=10): 0(47153) || Inc(>=10): 1(458) || Inc(>=10): 2(576) || Inc(>=10): 3(46) || Removed 4: 2<10 examples || Removed 5: 2<10 examples || Removed 7: 2<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 4 || SUCCESS results-ordered-logistic
+100540_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47607 || Inc(>=10): 0(47607) || Inc(>=10): 2(548) || Removed 4: 9<10 examples || Inc(>=10): 3(47) || Inc(>=10): 1(22) || Removed 5: 3<10 examples || Removed 6: 2<10 examples || Removed 7: 1<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 4 || SUCCESS results-ordered-logistic
+100550_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46171 || Inc(>=10): 0(46171) || Inc(>=10): 2(1836) || Inc(>=10): 1(95) || Inc(>=10): 3(116) || Removed 7: 3<10 examples || Inc(>=10): 4(11) || Removed 6: 3<10 examples || Removed 5: 4<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 5 || SUCCESS results-ordered-logistic
+100560_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47248 || Inc(>=10): 0(47248) || Inc(>=10): 2(569) || Inc(>=10): 4(72) || Inc(>=10): 3(203) || Inc(>=10): 1(84) || Inc(>=10): 5(34) || Inc(>=10): 6(16) || Inc(>=10): 7(13) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100580_0|| CAT-SINGLE || Inc(>=10): 1(23803) || Inc(>=10): 0(24436) || CAT-SINGLE-BINARY || sample 24436/23803(48239) || SUCCESS results-logistic-binary 
+100590_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 39679 || Inc(>=10): 0(39679) || Inc(>=10): 2(3309) || Inc(>=10): 3(2920) || Inc(>=10): 1(486) || Inc(>=10): 6(137) || Inc(>=10): 4(1241) || Inc(>=10): 5(356) || Inc(>=10): 7(111) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100630_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 46781 || Inc(>=10): 0(46781) || Inc(>=10): 3(485) || Inc(>=10): 4(164) || Inc(>=10): 2(634) || Inc(>=10): 5(47) || Inc(>=10): 1(100) || Removed 7: 9<10 examples || Inc(>=10): 6(19) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 7 || SUCCESS results-ordered-logistic
+100670_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 41561 || Inc(>=10): 3(2239) || Inc(>=10): 2(2568) || Inc(>=10): 0(41561) || Inc(>=10): 4(973) || Inc(>=10): 5(327) || Inc(>=10): 1(366) || Inc(>=10): 6(113) || Inc(>=10): 7(92) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100710_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 39817 || Inc(>=10): 0(39817) || Inc(>=10): 2(2868) || Inc(>=10): 1(2022) || Inc(>=10): 3(1825) || Inc(>=10): 7(183) || Inc(>=10): 4(809) || Inc(>=10): 5(483) || Inc(>=10): 6(232) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100720_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47317 || Inc(>=10): 0(47317) || Inc(>=10): 2(521) || Inc(>=10): 1(239) || Inc(>=10): 3(121) || Inc(>=10): 4(30) || Removed 7: 4<10 examples || Removed 5: 5<10 examples || Removed 6: 2<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 5 || SUCCESS results-ordered-logistic
+100730_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 44853 || Inc(>=10): 0(44853) || Inc(>=10): 3(939) || Inc(>=10): 1(362) || Inc(>=10): 2(1481) || Inc(>=10): 4(286) || Inc(>=10): 5(180) || Inc(>=10): 6(53) || Inc(>=10): 7(85) || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 8 || SUCCESS results-ordered-logistic
+100740_0|| CAT-SINGLE || reorder 555|1|2|3|4|5|600 || Default related field: x20082_0_0 || default value 0 set, N= 47708 || Inc(>=10): 0(47708) || Inc(>=10): 2(262) || Inc(>=10): 4(29) || Inc(>=10): 1(104) || Inc(>=10): 3(108) || Inc(>=10): 5(15) || Removed 6: 4<10 examples || Removed 7: 9<10 examples || ordered || CAT-ORD || order: 555|1|2|3|4|5|600 || num categories: 6 || SUCCESS results-ordered-logistic
+100760_0|| CAT-SINGLE || Inc(>=10): 1(32138) || Inc(>=10): 0(16101) || CAT-SINGLE-BINARY || sample 16101/32138(48239) || SUCCESS results-logistic-binary 
+100770_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 40872 || Inc(>=10): 0(40872) || Inc(>=10): 1(442) || Inc(>=10): 2(6815) || Inc(>=10): 3(110) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100800_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 40479 || Inc(>=10): 0(40479) || Inc(>=10): 2(5431) || Inc(>=10): 1(2234) || Inc(>=10): 3(95) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100810_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 46579 || Inc(>=10): 0(46579) || Inc(>=10): 2(1052) || Inc(>=10): 1(588) || Inc(>=10): 3(20) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100820_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 46783 || Inc(>=10): 2(1111) || Inc(>=10): 0(46783) || Inc(>=10): 1(320) || Inc(>=10): 3(25) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100830_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 43482 || Inc(>=10): 0(43482) || Inc(>=10): 3(91) || Inc(>=10): 2(3779) || Inc(>=10): 1(887) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100840_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 43198 || Inc(>=10): 0(43198) || Inc(>=10): 2(3420) || Inc(>=10): 1(1564) || Inc(>=10): 3(57) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100850_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 41537 || Inc(>=10): 0(41537) || Inc(>=10): 1(1113) || Inc(>=10): 2(5079) || Inc(>=10): 3(510) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100860_0|| CAT-SINGLE || reorder 555|1|200 || Default related field: x20082_0_0 || default value 0 set, N= 47280 || Inc(>=10): 0(47280) || Inc(>=10): 2(702) || Inc(>=10): 1(241) || Inc(>=10): 3(16) || ordered || CAT-ORD || order: 555|1|200 || num categories: 4 || SUCCESS results-ordered-logistic
+100880_0|| CAT-SINGLE || reorder 111|1 || Default related field: x20082_0_0 || default value 0 set, N= 33929 || Inc(>=10): 0(33929) || Inc(>=10): 2(14147) || Inc(>=10): 1(163) || ordered || CAT-ORD || order: 111|1 || num categories: 3 || SUCCESS results-ordered-logistic

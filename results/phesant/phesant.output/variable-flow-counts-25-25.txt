@@ -1,0 +1,12 @@
+name,countValue
+catSin.case1,174
+catSin.case2,1
+catSin.case3,17
+catSin.onevalue,2
+notinphenofile,2
+ordCat,174
+ordCat.error,5
+start.catSin,194
+success.binary,17
+success.ordCat,169
+success.unordCat,1

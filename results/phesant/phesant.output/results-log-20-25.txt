@@ -1,0 +1,526 @@
+27387_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27388_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27389_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27390_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27391_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27392_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27393_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27394_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27395_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27396_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27397_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27398_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27399_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27400_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27401_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27402_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27403_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27404_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27405_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27406_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27407_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27408_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27409_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27410_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27411_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27412_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27413_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27414_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27415_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27416_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27417_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27418_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27419_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27420_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27421_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27422_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27423_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27424_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27425_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27426_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27427_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27428_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27429_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27430_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27431_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27432_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27433_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27434_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27435_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27436_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27437_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27438_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27439_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27440_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27441_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27442_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27443_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27444_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27445_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27446_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27447_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27448_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27449_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27450_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27451_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27452_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27453_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27454_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27455_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27456_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27457_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27458_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27459_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27460_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27461_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27462_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27463_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27464_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27465_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27466_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27467_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27468_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27469_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27470_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27471_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27472_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27473_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27474_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27475_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27476_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27477_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27478_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27479_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27480_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27481_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27482_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27483_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27484_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27485_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27486_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27487_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27488_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27489_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27490_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27491_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27492_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27493_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27494_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27495_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27496_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27497_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27498_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27499_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27500_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27501_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27502_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27503_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27504_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27505_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27506_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27507_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27508_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27509_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27510_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27511_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27512_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27513_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27514_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27515_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27516_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27517_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27518_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27519_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27520_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27521_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27522_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27523_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27524_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27525_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27526_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27527_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27528_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27529_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27530_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27531_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27532_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27533_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27534_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27535_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27536_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27537_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27538_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27539_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27540_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27541_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27542_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27543_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27544_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27545_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27546_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27547_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27548_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27549_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27550_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27551_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27552_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27553_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27554_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27555_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27556_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27557_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27558_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27559_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27560_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27561_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27562_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27563_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27564_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27565_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27566_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27567_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27568_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27569_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27570_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27571_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27572_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27573_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27574_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27575_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27576_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27577_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27578_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27579_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27580_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27581_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27582_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27583_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27584_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27585_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27586_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27587_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27588_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27589_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27590_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27591_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27592_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27593_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27594_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27595_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27596_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27597_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27598_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27599_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27600_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27601_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27602_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27603_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27604_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27605_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27606_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27607_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27608_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27609_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27610_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27611_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27612_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27613_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27614_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27615_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27616_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27617_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27618_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27619_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27620_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27621_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27622_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27623_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27624_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27625_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27626_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27627_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27628_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27629_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27630_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27631_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27632_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27633_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27634_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27635_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27636_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27637_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27638_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27639_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27640_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27641_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27642_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27643_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27644_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27645_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27646_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27647_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27648_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27649_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27650_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27651_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27652_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27653_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27654_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27655_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27656_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27657_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27658_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27659_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27660_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27661_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27662_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27663_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27664_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27665_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27666_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27667_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27668_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27669_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27670_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27671_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27672_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27673_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27674_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27675_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27676_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27677_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27678_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27679_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27680_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27681_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27682_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27683_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27684_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27685_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27686_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27687_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27688_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27689_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27690_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27691_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27692_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27693_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27694_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27695_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27696_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27697_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27698_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27699_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27700_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27701_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27702_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27703_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27704_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27705_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27706_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27707_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27708_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27709_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27710_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27711_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27712_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27713_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27714_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27715_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27716_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27717_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27718_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27719_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27720_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27721_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27722_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27723_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27724_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27725_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27726_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27727_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27728_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27729_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27730_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27731_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27732_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27733_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27734_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27735_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27736_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27737_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27738_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27739_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27740_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27741_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27742_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27743_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27744_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27745_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27746_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27747_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27748_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27749_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27750_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27751_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27752_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27753_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27754_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27755_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27756_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27757_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27758_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27759_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27760_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27761_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27762_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27763_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27764_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27765_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27766_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27767_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27768_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27769_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27770_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27771_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27772_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+27980_0 || Variable could not be found in pheno info file. 
+27981_0 || Variable could not be found in pheno info file. 
+27982_0 || Variable could not be found in pheno info file. 
+27983_0 || Variable could not be found in pheno info file. 
+27984_0 || Variable could not be found in pheno info file. 
+27985_0 || Variable could not be found in pheno info file. 
+27986_0 || Variable could not be found in pheno info file. 
+27989_0 || Variable could not be found in pheno info file. 
+27990_0 || Variable could not be found in pheno info file. 
+27991_0 || Variable could not be found in pheno info file. 
+27992_0 || Variable could not be found in pheno info file. 
+27993_0 || Variable could not be found in pheno info file. 
+29000_0 || Variable could not be found in pheno info file. 
+29001_0 || Variable could not be found in pheno info file. 
+29002_0 || Variable could not be found in pheno info file. 
+29003_0 || Variable could not be found in pheno info file. 
+29004_0 || Variable could not be found in pheno info file. 
+29005_0 || Variable could not be found in pheno info file. 
+29006_0 || Variable could not be found in pheno info file. 
+29007_0 || Variable could not be found in pheno info file. 
+29008_0 || Variable could not be found in pheno info file. 
+29009_0 || Variable could not be found in pheno info file. 
+29010_0 || Variable could not be found in pheno info file. 
+29011_0 || Variable could not be found in pheno info file. 
+29012_0 || Variable could not be found in pheno info file. 
+29013_0 || Variable could not be found in pheno info file. 
+29014_0 || Variable could not be found in pheno info file. 
+29015_0 || Variable could not be found in pheno info file. 
+29016_0 || Variable could not be found in pheno info file. 
+29017_0 || Variable could not be found in pheno info file. 
+29018_0 || Variable could not be found in pheno info file. 
+29019_0 || Variable could not be found in pheno info file. 
+29020_0 || Variable could not be found in pheno info file. 
+29021_0 || Variable could not be found in pheno info file. 
+29022_0 || Variable could not be found in pheno info file. 
+29023_0 || Variable could not be found in pheno info file. 
+29024_0 || Variable could not be found in pheno info file. 
+29025_0 || Variable could not be found in pheno info file. 
+29026_0 || Variable could not be found in pheno info file. 
+29027_0 || Variable could not be found in pheno info file. 
+29028_0 || Variable could not be found in pheno info file. 
+29029_0 || Variable could not be found in pheno info file. 
+29030_0 || Variable could not be found in pheno info file. 
+29031_0 || Variable could not be found in pheno info file. 
+29032_0 || Variable could not be found in pheno info file. 
+29033_0 || Variable could not be found in pheno info file. 
+29034_0 || Variable could not be found in pheno info file. 
+29035_0 || Variable could not be found in pheno info file. 
+29036_0 || Variable could not be found in pheno info file. 
+29037_0 || Variable could not be found in pheno info file. 
+29038_0 || Variable could not be found in pheno info file. 
+29039_0 || Variable could not be found in pheno info file. 
+29040_0 || Variable could not be found in pheno info file. 
+29041_0 || Variable could not be found in pheno info file. 
+29042_0 || Variable could not be found in pheno info file. 
+29043_0 || Variable could not be found in pheno info file. 
+29044_0 || Variable could not be found in pheno info file. 
+29045_0 || Variable could not be found in pheno info file. 
+29046_0 || Variable could not be found in pheno info file. 
+29047_0 || Variable could not be found in pheno info file. 
+29048_0 || Variable could not be found in pheno info file. 
+29049_0 || Variable could not be found in pheno info file. 
+29050_0 || Variable could not be found in pheno info file. 
+29051_0 || Variable could not be found in pheno info file. 
+29052_0 || Variable could not be found in pheno info file. 
+29053_0 || Variable could not be found in pheno info file. 
+29054_0 || Variable could not be found in pheno info file. 
+29055_0 || Variable could not be found in pheno info file. 
+29056_0 || Variable could not be found in pheno info file. 
+29057_0 || Variable could not be found in pheno info file. 
+29058_0 || Variable could not be found in pheno info file. 
+29059_0 || Variable could not be found in pheno info file. 
+29060_0 || Variable could not be found in pheno info file. 
+29061_0 || Variable could not be found in pheno info file. 
+29062_0 || Variable could not be found in pheno info file. 
+29063_0 || Variable could not be found in pheno info file. 
+29064_0 || Variable could not be found in pheno info file. 
+29065_0 || Variable could not be found in pheno info file. 
+29066_0 || Variable could not be found in pheno info file. 
+29067_0 || Variable could not be found in pheno info file. 
+29068_0 || Variable could not be found in pheno info file. 
+29069_0 || Variable could not be found in pheno info file. 
+29070_0 || Variable could not be found in pheno info file. 
+29071_0 || Variable could not be found in pheno info file. 
+29072_0 || Variable could not be found in pheno info file. 
+29073_0 || Variable could not be found in pheno info file. 
+29074_0 || Variable could not be found in pheno info file. 
+29075_0 || Variable could not be found in pheno info file. 
+29076_0 || Variable could not be found in pheno info file. 
+29077_0 || Variable could not be found in pheno info file. 
+29078_0 || Variable could not be found in pheno info file. 
+29079_0 || Variable could not be found in pheno info file. 
+29080_0 || Variable could not be found in pheno info file. 
+29081_0 || Variable could not be found in pheno info file. 
+29082_0 || Variable could not be found in pheno info file. 
+29083_0 || Variable could not be found in pheno info file. 
+29084_0 || Variable could not be found in pheno info file. 
+29085_0 || Variable could not be found in pheno info file. 
+29086_0 || Variable could not be found in pheno info file. 
+29087_0 || Variable could not be found in pheno info file. 
+29088_0 || Variable could not be found in pheno info file. 
+29089_0 || Variable could not be found in pheno info file. 
+29090_0 || Variable could not be found in pheno info file. 
+29091_0 || Variable could not be found in pheno info file. 
+29092_0 || Variable could not be found in pheno info file. 
+29093_0 || Variable could not be found in pheno info file. 
+29094_0 || Variable could not be found in pheno info file. 
+29095_0 || Variable could not be found in pheno info file. 
+29096_0 || Variable could not be found in pheno info file. 
+29097_0 || Variable could not be found in pheno info file. 
+29098_0 || Variable could not be found in pheno info file. 
+29099_0 || Variable could not be found in pheno info file. 
+29100_0 || Variable could not be found in pheno info file. 
+29101_0 || Variable could not be found in pheno info file. 
+29102_0 || Variable could not be found in pheno info file. 
+29103_0 || Variable could not be found in pheno info file. 
+29104_0 || Variable could not be found in pheno info file. 
+29105_0 || Variable could not be found in pheno info file. 
+29106_0 || Variable could not be found in pheno info file. 
+29107_0 || Variable could not be found in pheno info file. 
+29108_0 || Variable could not be found in pheno info file. 
+29109_0 || Variable could not be found in pheno info file. 
+29110_0 || Variable could not be found in pheno info file. 
+29111_0 || Variable could not be found in pheno info file. 
+29112_0 || Variable could not be found in pheno info file. 
+29113_0 || Variable could not be found in pheno info file. 
+29114_0 || Variable could not be found in pheno info file. 
+29115_0 || Variable could not be found in pheno info file. 
+29116_0 || Variable could not be found in pheno info file. 
+29117_0 || Variable could not be found in pheno info file. 
+29118_0 || Variable could not be found in pheno info file. 
+29119_0 || Variable could not be found in pheno info file. 
+29120_0 || Variable could not be found in pheno info file. 
+29121_0 || Variable could not be found in pheno info file. 
+29122_0 || Variable could not be found in pheno info file. 
+29123_0 || Variable could not be found in pheno info file. 
+29124_0 || Variable could not be found in pheno info file. 
+29125_0 || Variable could not be found in pheno info file. 
+29126_0 || Variable could not be found in pheno info file. 
+29127_0 || Variable could not be found in pheno info file. 

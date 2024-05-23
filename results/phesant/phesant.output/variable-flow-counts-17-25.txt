@@ -1,0 +1,13 @@
+name,countValue
+catSin.case2,1
+cont.main,479
+cont.ordcattry,1
+cont.ordcattry.binsbinary,1
+int.continuous,1
+notinphenofile,9
+start.catSin,1
+start.cont,479
+start.int,1
+success.binary,1
+success.continuous,479
+success.unordCat,1

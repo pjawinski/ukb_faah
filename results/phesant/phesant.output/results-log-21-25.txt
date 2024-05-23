@@ -1,0 +1,436 @@
+29128_0 || Variable could not be found in pheno info file. 
+29129_0 || Variable could not be found in pheno info file. 
+29130_0 || Variable could not be found in pheno info file. 
+29131_0 || Variable could not be found in pheno info file. 
+29132_0 || Variable could not be found in pheno info file. 
+29133_0 || Variable could not be found in pheno info file. 
+29134_0 || Variable could not be found in pheno info file. 
+29135_0 || Variable could not be found in pheno info file. 
+29136_0 || Variable could not be found in pheno info file. 
+29137_0 || Variable could not be found in pheno info file. 
+29138_0 || Variable could not be found in pheno info file. 
+29139_0 || Variable could not be found in pheno info file. 
+29140_0 || Variable could not be found in pheno info file. 
+29141_0 || Variable could not be found in pheno info file. 
+29142_0 || Variable could not be found in pheno info file. 
+29143_0 || Variable could not be found in pheno info file. 
+29144_0 || Variable could not be found in pheno info file. 
+29145_0 || Variable could not be found in pheno info file. 
+29146_0 || Variable could not be found in pheno info file. 
+29147_0 || Variable could not be found in pheno info file. 
+29148_0 || Variable could not be found in pheno info file. 
+29149_0 || Variable could not be found in pheno info file. 
+29150_0 || Variable could not be found in pheno info file. 
+29151_0 || Variable could not be found in pheno info file. 
+29152_0 || Variable could not be found in pheno info file. 
+29153_0 || Variable could not be found in pheno info file. 
+29154_0 || Variable could not be found in pheno info file. 
+29155_0 || Variable could not be found in pheno info file. 
+29156_0 || Variable could not be found in pheno info file. 
+29157_0 || Variable could not be found in pheno info file. 
+29158_0 || Variable could not be found in pheno info file. 
+29159_0 || Variable could not be found in pheno info file. 
+29160_0 || Variable could not be found in pheno info file. 
+29161_0 || Variable could not be found in pheno info file. 
+29162_0 || Variable could not be found in pheno info file. 
+29163_0 || Variable could not be found in pheno info file. 
+29164_0 || Variable could not be found in pheno info file. 
+29165_0 || Variable could not be found in pheno info file. 
+29166_0 || Variable could not be found in pheno info file. 
+29167_0 || Variable could not be found in pheno info file. 
+29168_0 || Variable could not be found in pheno info file. 
+29169_0 || Variable could not be found in pheno info file. 
+29170_0 || Variable could not be found in pheno info file. 
+29171_0 || Variable could not be found in pheno info file. 
+29172_0 || Variable could not be found in pheno info file. 
+29173_0 || Variable could not be found in pheno info file. 
+29174_0 || Variable could not be found in pheno info file. 
+29175_0 || Variable could not be found in pheno info file. 
+29176_0 || Variable could not be found in pheno info file. 
+29177_0 || Variable could not be found in pheno info file. 
+29178_0 || Variable could not be found in pheno info file. 
+29179_0 || Variable could not be found in pheno info file. 
+29180_0 || Variable could not be found in pheno info file. 
+29181_0 || Variable could not be found in pheno info file. 
+29182_0 || Variable could not be found in pheno info file. 
+29183_0 || Variable could not be found in pheno info file. 
+29184_0 || Variable could not be found in pheno info file. 
+29185_0 || Variable could not be found in pheno info file. 
+29186_0 || Variable could not be found in pheno info file. 
+29187_0 || Variable could not be found in pheno info file. 
+29188_0 || Variable could not be found in pheno info file. 
+29189_0 || Variable could not be found in pheno info file. 
+29190_0 || Variable could not be found in pheno info file. 
+29191_0 || Variable could not be found in pheno info file. 
+29192_0 || Variable could not be found in pheno info file. 
+29193_0 || Variable could not be found in pheno info file. 
+29194_0 || Variable could not be found in pheno info file. 
+29195_0 || Variable could not be found in pheno info file. 
+29196_0 || Variable could not be found in pheno info file. 
+29197_0 || Variable could not be found in pheno info file. 
+29198_0 || Variable could not be found in pheno info file. 
+29199_0 || Variable could not be found in pheno info file. 
+29200_0 || Variable could not be found in pheno info file. 
+29201_0 || Variable could not be found in pheno info file. 
+29202_0 || Variable could not be found in pheno info file. 
+29203_0 || Variable could not be found in pheno info file. 
+29204_0 || Variable could not be found in pheno info file. 
+29205_0 || Variable could not be found in pheno info file. 
+29206_0 || Variable could not be found in pheno info file. 
+29207_0 || Variable could not be found in pheno info file. 
+29208_0 || Variable could not be found in pheno info file. 
+29209_0 || Variable could not be found in pheno info file. 
+29250_1 || Variable could not be found in pheno info file. 
+30000_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30001_0|| INTEGER || Inc(>=10): 0(328658) || SKIP (number of levels: 1)
+30002_0 || Variable could not be found in pheno info file. 
+30003_0 || Variable could not be found in pheno info file. 
+30004_0|| CAT-SINGLE || Inc(>=10): 2(211135) || Inc(>=10): 1(119634) || CAT-SINGLE-BINARY || sample 119634/211135(330769) || ERROR: 30004 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30010_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30011_0|| INTEGER || Inc(>=10): 0(328662) || SKIP (number of levels: 1)
+30012_0 || Variable could not be found in pheno info file. 
+30013_0 || Variable could not be found in pheno info file. 
+30014_0|| CAT-SINGLE || Inc(>=10): 2(211140) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/211140(330773) || ERROR: 30014 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30020_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30021_0|| INTEGER || Inc(>=10): 0(328662) || SKIP (number of levels: 1)
+30022_0 || Variable could not be found in pheno info file. 
+30023_0 || Variable could not be found in pheno info file. 
+30024_0|| CAT-SINGLE || Inc(>=10): 2(211140) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/211140(330773) || ERROR: 30024 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30030_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30031_0|| INTEGER || Inc(>=10): 0(328662) || SKIP (number of levels: 1)
+30032_0 || Variable could not be found in pheno info file. 
+30033_0 || Variable could not be found in pheno info file. 
+30034_0|| CAT-SINGLE || Inc(>=10): 2(211140) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/211140(330773) || ERROR: 30034 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30040_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30041_0|| INTEGER || Inc(>=10): 0(328661) || SKIP (number of levels: 1)
+30042_0 || Variable could not be found in pheno info file. 
+30043_0 || Variable could not be found in pheno info file. 
+30044_0|| CAT-SINGLE || Inc(>=10): 2(211139) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/211139(330772) || SUCCESS results-logistic-binary 
+30050_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30051_0|| INTEGER || Inc(>=10): 0(328659) || SKIP (number of levels: 1)
+30052_0 || Variable could not be found in pheno info file. 
+30053_0 || Variable could not be found in pheno info file. 
+30054_0|| CAT-SINGLE || Inc(>=10): 2(211140) || Inc(>=10): 1(119630) || CAT-SINGLE-BINARY || sample 119630/211140(330770) || ERROR: 30054 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30060_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30061_0|| INTEGER || Inc(>=10): 0(328658) || SKIP (number of levels: 1)
+30062_0 || Variable could not be found in pheno info file. 
+30063_0 || Variable could not be found in pheno info file. 
+30064_0|| CAT-SINGLE || Inc(>=10): 2(211138) || Inc(>=10): 1(119631) || CAT-SINGLE-BINARY || sample 119631/211138(330769) || SUCCESS results-logistic-binary 
+30070_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30071_0|| INTEGER || Inc(>=10): 0(328661) || SKIP (number of levels: 1)
+30072_0 || Variable could not be found in pheno info file. 
+30073_0 || Variable could not be found in pheno info file. 
+30074_0|| CAT-SINGLE || Inc(>=10): 2(211139) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/211139(330772) || SUCCESS results-logistic-binary 
+30080_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30081_0|| INTEGER || Inc(>=10): 0(328660) || SKIP (number of levels: 1)
+30082_0 || Variable could not be found in pheno info file. 
+30083_0 || Variable could not be found in pheno info file. 
+30084_0|| CAT-SINGLE || Inc(>=10): 2(211137) || Inc(>=10): 1(119634) || CAT-SINGLE-BINARY || sample 119634/211137(330771) || ERROR: 30084 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30090_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30091_0|| INTEGER || Inc(>=10): 0(328657) || SKIP (number of levels: 1)
+30092_0 || Variable could not be found in pheno info file. 
+30093_0 || Variable could not be found in pheno info file. 
+30094_0|| CAT-SINGLE || Inc(>=10): 2(211134) || Inc(>=10): 1(119634) || CAT-SINGLE-BINARY || sample 119634/211134(330768) || ERROR: 30094 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30100_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30101_0|| INTEGER || Inc(>=10): 0(328656) || SKIP (number of levels: 1)
+30102_0 || Variable could not be found in pheno info file. 
+30103_0 || Variable could not be found in pheno info file. 
+30104_0|| CAT-SINGLE || Inc(>=10): 2(211133) || Inc(>=10): 1(119634) || CAT-SINGLE-BINARY || sample 119634/211133(330767) || SUCCESS results-logistic-binary 
+30110_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30111_0|| INTEGER || Inc(>=10): 0(328656) || SKIP (number of levels: 1)
+30112_0 || Variable could not be found in pheno info file. 
+30113_0 || Variable could not be found in pheno info file. 
+30114_0|| CAT-SINGLE || Inc(>=10): 2(211133) || Inc(>=10): 1(119634) || CAT-SINGLE-BINARY || sample 119634/211133(330767) || SUCCESS results-logistic-binary 
+30120_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30121_0|| INTEGER || Inc(>=10): 0(328081) || SKIP (number of levels: 1)
+30122_0 || Variable could not be found in pheno info file. 
+30123_0 || Variable could not be found in pheno info file. 
+30124_0|| CAT-SINGLE || Inc(>=10): 2(210559) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210559(330192) || ERROR: 30124 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30130_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30131_0|| INTEGER || Inc(>=10): 0(328078) || SKIP (number of levels: 1)
+30132_0 || Variable could not be found in pheno info file. 
+30133_0 || Variable could not be found in pheno info file. 
+30134_0|| CAT-SINGLE || Inc(>=10): 2(210559) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210559(330192) || ERROR: 30134 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30140_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30141_0|| INTEGER || Inc(>=10): 0(328081) || SKIP (number of levels: 1)
+30142_0 || Variable could not be found in pheno info file. 
+30143_0 || Variable could not be found in pheno info file. 
+30144_0|| CAT-SINGLE || Inc(>=10): 2(210559) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210559(330192) || ERROR: 30144 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30150_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.1, bin 2: >=0.1AND < 0.2, bin 3: >=0.2 || cat N: 68414, 140686, 121092 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30151_0|| INTEGER || Inc(>=10): 0(328028) || SKIP (number of levels: 1)
+30152_0 || Variable could not be found in pheno info file. 
+30153_0 || Variable could not be found in pheno info file. 
+30154_0|| CAT-SINGLE || Inc(>=10): 2(210559) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210559(330192) || ERROR: 30154 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30160_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: <0.01, bin 2: >=0.01AND < 0.03, bin 3: >=0.03 || cat N: 96209, 81329, 152654 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30161_0|| INTEGER || Inc(>=10): 0(327370) || SKIP (number of levels: 1)
+30162_0 || Variable could not be found in pheno info file. 
+30163_0 || Variable could not be found in pheno info file. 
+30164_0|| CAT-SINGLE || Inc(>=10): 2(210559) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210559(330192) || ERROR: 30164 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30170_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <0.17bin 3: >=0.17 || cat N: 327322, 1429, 1436 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30171_0|| INTEGER || Inc(>=10): 0(327181) || SKIP (number of levels: 1)
+30172_0 || Variable could not be found in pheno info file. 
+30173_0 || Variable could not be found in pheno info file. 
+30174_0|| CAT-SINGLE || Inc(>=10): 2(210554) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210554(330187) || ERROR: 30174 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30180_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30181_0|| INTEGER || Inc(>=10): 0(328086) || SKIP (number of levels: 1)
+30182_0 || Variable could not be found in pheno info file. 
+30183_0 || Variable could not be found in pheno info file. 
+30184_0|| CAT-SINGLE || Inc(>=10): 2(210564) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210564(330197) || ERROR: 30184 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30190_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30191_0|| INTEGER || Inc(>=10): 0(328085) || SKIP (number of levels: 1)
+30192_0 || Variable could not be found in pheno info file. 
+30193_0 || Variable could not be found in pheno info file. 
+30194_0|| CAT-SINGLE || Inc(>=10): 2(210564) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210564(330197) || ERROR: 30194 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30200_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30201_0|| INTEGER || Inc(>=10): 0(328086) || SKIP (number of levels: 1)
+30202_0 || Variable could not be found in pheno info file. 
+30203_0 || Variable could not be found in pheno info file. 
+30204_0|| CAT-SINGLE || Inc(>=10): 2(210564) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210564(330197) || ERROR: 30204 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30210_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30211_0|| INTEGER || Inc(>=10): 0(328084) || SKIP (number of levels: 1)
+30212_0 || Variable could not be found in pheno info file. 
+30213_0 || Variable could not be found in pheno info file. 
+30214_0|| CAT-SINGLE || Inc(>=10): 2(210564) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210564(330197) || ERROR: 30214 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30220_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30221_0|| INTEGER || Inc(>=10): 0(328076) || SKIP (number of levels: 1)
+30222_0 || Variable could not be found in pheno info file. 
+30223_0 || Variable could not be found in pheno info file. 
+30224_0|| CAT-SINGLE || Inc(>=10): 2(210564) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210564(330197) || ERROR: 30224 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30230_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <2.2bin 3: >=2.2 || cat N: 327322, 1415, 1445 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+30231_0|| INTEGER || Inc(>=10): 0(327181) || SKIP (number of levels: 1)
+30232_0 || Variable could not be found in pheno info file. 
+30233_0 || Variable could not be found in pheno info file. 
+30234_0|| CAT-SINGLE || Inc(>=10): 2(210554) || Inc(>=10): 1(119633) || CAT-SINGLE-BINARY || sample 119633/210554(330187) || ERROR: 30234 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30240_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30241_0|| INTEGER || Inc(>=10): 0(323382) || SKIP (number of levels: 1)
+30242_0 || Variable could not be found in pheno info file. 
+30243_0 || Variable could not be found in pheno info file. 
+30244_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119117) || CAT-SINGLE-BINARY || sample 119117/206288(325405) || ERROR: 30244 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30250_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30251_0|| INTEGER || Inc(>=10): 0(323381) || SKIP (number of levels: 1)
+30252_0 || Variable could not be found in pheno info file. 
+30253_0 || Variable could not be found in pheno info file. 
+30254_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119116) || CAT-SINGLE-BINARY || sample 119116/206288(325404) || ERROR: 30254 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30260_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30261_0|| INTEGER || Inc(>=10): 0(323382) || SKIP (number of levels: 1)
+30262_0 || Variable could not be found in pheno info file. 
+30263_0 || Variable could not be found in pheno info file. 
+30264_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119117) || CAT-SINGLE-BINARY || sample 119117/206288(325405) || ERROR: 30264 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30270_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30271_0|| INTEGER || Inc(>=10): 0(323382) || SKIP (number of levels: 1)
+30272_0 || Variable could not be found in pheno info file. 
+30273_0 || Variable could not be found in pheno info file. 
+30274_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119117) || CAT-SINGLE-BINARY || sample 119117/206288(325405) || ERROR: 30274 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30280_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30281_0|| INTEGER || Inc(>=10): 0(323382) || SKIP (number of levels: 1)
+30282_0 || Variable could not be found in pheno info file. 
+30283_0 || Variable could not be found in pheno info file. 
+30284_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119117) || CAT-SINGLE-BINARY || sample 119117/206288(325405) || ERROR: 30284 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30290_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30291_0|| INTEGER || Inc(>=10): 0(323382) || SKIP (number of levels: 1)
+30292_0 || Variable could not be found in pheno info file. 
+30293_0 || Variable could not be found in pheno info file. 
+30294_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119117) || CAT-SINGLE-BINARY || sample 119117/206288(325405) || ERROR: 30294 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30300_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30301_0|| INTEGER || Inc(>=10): 0(323381) || SKIP (number of levels: 1)
+30302_0 || Variable could not be found in pheno info file. 
+30303_0 || Variable could not be found in pheno info file. 
+30304_0|| CAT-SINGLE || Inc(>=10): 2(206288) || Inc(>=10): 1(119116) || CAT-SINGLE-BINARY || sample 119116/206288(325404) || ERROR: 30304 Error in profile.glm(object, which = parm, alpha = (1 - level)/4, trace = trace): profiling has found a better solution, so original fit had not converged
+30314_0|| Excluded integer: YES-META || 
+30324_0|| Excluded integer: YES-META || 
+30334_0|| Excluded integer: YES-META || 
+30344_0|| Excluded integer: YES-META || 
+30354_0|| Excluded integer: YES-META || 
+30364_0|| Excluded integer: YES-META || 
+30374_0|| Excluded integer: YES-META || 
+30384_0|| Excluded integer: YES-META || 
+30394_0|| Excluded integer: YES-META || 
+30404_0|| Excluded integer: YES-META || 
+30414_0|| Excluded integer: YES-META || 
+30424_0|| Excluded integer: YES-META || 
+30500_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30503_0|| Excluded cat-single: YES-META || 
+30505_0|| CAT-SINGLE || SKIP (only one value) || 
+30510_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30513_0|| Excluded cat-single: YES-META || 
+30515_0|| CAT-SINGLE || SKIP (only one value) || 
+30520_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30523_0|| Excluded cat-single: YES-META || 
+30525_0|| CAT-SINGLE || SKIP (only one value) || 
+30530_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30533_0|| Excluded cat-single: YES-META || 
+30535_0|| CAT-SINGLE || SKIP (only one value) || 
+30600_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30602_0|| Excluded cat-single: YES-PROCESSING || 
+30603_0|| Excluded cat-single: YES-PROCESSING || 
+30604_0|| Excluded cat-single: YES-PROCESSING || 
+30605_0|| Excluded cat-single: YES-PROCESSING || 
+30606_0|| Excluded cat-single: YES-PROCESSING || 
+30610_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30612_0|| Excluded cat-single: YES-PROCESSING || 
+30613_0|| Excluded cat-single: YES-PROCESSING || 
+30614_0|| Excluded cat-single: YES-PROCESSING || 
+30615_0|| Excluded cat-single: YES-PROCESSING || 
+30616_0|| Excluded cat-single: YES-PROCESSING || 
+30620_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30622_0|| Excluded cat-single: YES-PROCESSING || 
+30623_0|| Excluded cat-single: YES-PROCESSING || 
+30624_0|| Excluded cat-single: YES-PROCESSING || 
+30625_0|| Excluded cat-single: YES-PROCESSING || 
+30626_0|| Excluded cat-single: YES-PROCESSING || 
+30630_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30632_0|| Excluded cat-single: YES-PROCESSING || 
+30633_0|| Excluded cat-single: YES-PROCESSING || 
+30634_0|| Excluded cat-single: YES-PROCESSING || 
+30635_0|| Excluded cat-single: YES-PROCESSING || 
+30636_0|| Excluded cat-single: YES-PROCESSING || 
+30640_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30642_0|| Excluded cat-single: YES-PROCESSING || 
+30643_0|| Excluded cat-single: YES-PROCESSING || 
+30644_0|| Excluded cat-single: YES-PROCESSING || 
+30645_0|| Excluded cat-single: YES-PROCESSING || 
+30646_0|| Excluded cat-single: YES-PROCESSING || 
+30650_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30652_0|| Excluded cat-single: YES-PROCESSING || 
+30653_0|| Excluded cat-single: YES-PROCESSING || 
+30654_0|| Excluded cat-single: YES-PROCESSING || 
+30655_0|| Excluded cat-single: YES-PROCESSING || 
+30656_0|| Excluded cat-single: YES-PROCESSING || 
+30660_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30662_0|| Excluded cat-single: YES-PROCESSING || 
+30663_0|| Excluded cat-single: YES-PROCESSING || 
+30664_0|| Excluded cat-single: YES-PROCESSING || 
+30665_0|| Excluded cat-single: YES-PROCESSING || 
+30666_0|| Excluded cat-single: YES-PROCESSING || 
+30670_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30672_0|| Excluded cat-single: YES-PROCESSING || 
+30673_0|| Excluded cat-single: YES-PROCESSING || 
+30674_0|| Excluded cat-single: YES-PROCESSING || 
+30675_0|| Excluded cat-single: YES-PROCESSING || 
+30676_0|| Excluded cat-single: YES-PROCESSING || 
+30680_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30682_0|| Excluded cat-single: YES-PROCESSING || 
+30683_0|| Excluded cat-single: YES-PROCESSING || 
+30684_0|| Excluded cat-single: YES-PROCESSING || 
+30685_0|| Excluded cat-single: YES-PROCESSING || 
+30686_0|| Excluded cat-single: YES-PROCESSING || 
+30690_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30692_0|| Excluded cat-single: YES-PROCESSING || 
+30693_0|| Excluded cat-single: YES-PROCESSING || 
+30694_0|| Excluded cat-single: YES-PROCESSING || 
+30695_0|| Excluded cat-single: YES-PROCESSING || 
+30696_0|| Excluded cat-single: YES-PROCESSING || 
+30700_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30702_0|| Excluded cat-single: YES-PROCESSING || 
+30703_0|| Excluded cat-single: YES-PROCESSING || 
+30704_0|| Excluded cat-single: YES-PROCESSING || 
+30705_0|| Excluded cat-single: YES-PROCESSING || 
+30706_0|| Excluded cat-single: YES-PROCESSING || 
+30710_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30712_0|| Excluded cat-single: YES-PROCESSING || 
+30713_0|| Excluded cat-single: YES-PROCESSING || 
+30714_0|| Excluded cat-single: YES-PROCESSING || 
+30715_0|| Excluded cat-single: YES-PROCESSING || 
+30716_0|| Excluded cat-single: YES-PROCESSING || 
+30720_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30722_0|| Excluded cat-single: YES-PROCESSING || 
+30723_0|| Excluded cat-single: YES-PROCESSING || 
+30724_0|| Excluded cat-single: YES-PROCESSING || 
+30725_0|| Excluded cat-single: YES-PROCESSING || 
+30726_0|| Excluded cat-single: YES-PROCESSING || 
+30730_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30732_0|| Excluded cat-single: YES-PROCESSING || 
+30733_0|| Excluded cat-single: YES-PROCESSING || 
+30734_0|| Excluded cat-single: YES-PROCESSING || 
+30735_0|| Excluded cat-single: YES-PROCESSING || 
+30736_0|| Excluded cat-single: YES-PROCESSING || 
+30740_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30742_0|| Excluded cat-single: YES-PROCESSING || 
+30743_0|| Excluded cat-single: YES-PROCESSING || 
+30744_0|| Excluded cat-single: YES-PROCESSING || 
+30745_0|| Excluded cat-single: YES-PROCESSING || 
+30746_0|| Excluded cat-single: YES-PROCESSING || 
+30750_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30753_0|| Excluded cat-single: YES-PROCESSING || 
+30754_0|| Excluded cat-single: YES-PROCESSING || 
+30755_0|| Excluded cat-single: YES-PROCESSING || 
+30756_0|| Excluded cat-single: YES-PROCESSING || 
+30760_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30762_0|| Excluded cat-single: YES-PROCESSING || 
+30763_0|| Excluded cat-single: YES-PROCESSING || 
+30764_0|| Excluded cat-single: YES-PROCESSING || 
+30765_0|| Excluded cat-single: YES-PROCESSING || 
+30766_0|| Excluded cat-single: YES-PROCESSING || 
+30770_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30772_0|| Excluded cat-single: YES-PROCESSING || 
+30773_0|| Excluded cat-single: YES-PROCESSING || 
+30774_0|| Excluded cat-single: YES-PROCESSING || 
+30775_0|| Excluded cat-single: YES-PROCESSING || 
+30776_0|| Excluded cat-single: YES-PROCESSING || 
+30780_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30782_0|| Excluded cat-single: YES-PROCESSING || 
+30783_0|| Excluded cat-single: YES-PROCESSING || 
+30784_0|| Excluded cat-single: YES-PROCESSING || 
+30785_0|| Excluded cat-single: YES-PROCESSING || 
+30786_0|| Excluded cat-single: YES-PROCESSING || 
+30790_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30792_0|| Excluded cat-single: YES-PROCESSING || 
+30793_0|| Excluded cat-single: YES-PROCESSING || 
+30794_0|| Excluded cat-single: YES-PROCESSING || 
+30795_0|| Excluded cat-single: YES-PROCESSING || 
+30796_0|| Excluded cat-single: YES-PROCESSING || 
+30800_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30802_0|| Excluded cat-single: YES-PROCESSING || 
+30803_0|| Excluded cat-single: YES-PROCESSING || 
+30804_0|| Excluded cat-single: YES-PROCESSING || 
+30805_0|| Excluded cat-single: YES-PROCESSING || 
+30806_0|| Excluded cat-single: YES-PROCESSING || 
+30810_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30812_0|| Excluded cat-single: YES-PROCESSING || 
+30813_0|| Excluded cat-single: YES-PROCESSING || 
+30814_0|| Excluded cat-single: YES-PROCESSING || 
+30815_0|| Excluded cat-single: YES-PROCESSING || 
+30816_0|| Excluded cat-single: YES-PROCESSING || 
+30820_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30822_0|| Excluded cat-single: YES-PROCESSING || 
+30823_0|| Excluded cat-single: YES-PROCESSING || 
+30824_0|| Excluded cat-single: YES-PROCESSING || 
+30825_0|| Excluded cat-single: YES-PROCESSING || 
+30826_0|| Excluded cat-single: YES-PROCESSING || 
+30830_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30832_0|| Excluded cat-single: YES-PROCESSING || 
+30833_0|| Excluded cat-single: YES-PROCESSING || 
+30834_0|| Excluded cat-single: YES-PROCESSING || 
+30835_0|| Excluded cat-single: YES-PROCESSING || 
+30836_0|| Excluded cat-single: YES-PROCESSING || 
+30840_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30842_0|| Excluded cat-single: YES-PROCESSING || 
+30843_0|| Excluded cat-single: YES-PROCESSING || 
+30844_0|| Excluded cat-single: YES-PROCESSING || 
+30845_0|| Excluded cat-single: YES-PROCESSING || 
+30846_0|| Excluded cat-single: YES-PROCESSING || 
+30850_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30852_0|| Excluded cat-single: YES-PROCESSING || 
+30853_0|| Excluded cat-single: YES-PROCESSING || 
+30854_0|| Excluded cat-single: YES-PROCESSING || 
+30855_0|| Excluded cat-single: YES-PROCESSING || 
+30856_0|| Excluded cat-single: YES-PROCESSING || 
+30860_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30862_0|| Excluded cat-single: YES-PROCESSING || 
+30863_0|| Excluded cat-single: YES-PROCESSING || 
+30864_0|| Excluded cat-single: YES-PROCESSING || 
+30865_0|| Excluded cat-single: YES-PROCESSING || 
+30866_0|| Excluded cat-single: YES-PROCESSING || 
+30870_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30872_0|| Excluded cat-single: YES-PROCESSING || 
+30873_0|| Excluded cat-single: YES-PROCESSING || 
+30874_0|| Excluded cat-single: YES-PROCESSING || 
+30875_0|| Excluded cat-single: YES-PROCESSING || 
+30876_0|| Excluded cat-single: YES-PROCESSING || 
+30880_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+30882_0|| Excluded cat-single: YES-PROCESSING || 
+30883_0|| Excluded cat-single: YES-PROCESSING || 
+30884_0|| Excluded cat-single: YES-PROCESSING || 
+30885_0|| Excluded cat-single: YES-PROCESSING || 
+30886_0|| Excluded cat-single: YES-PROCESSING || 
+30890_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

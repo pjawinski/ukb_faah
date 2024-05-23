@@ -1,0 +1,14 @@
+name,countValue
+catSin.case1,2
+cont.main,9
+cont.ordcattry,1
+cont.ordcattry.ordcat,1
+excluded.catSin,4
+int.catord,3
+int.continuous,10
+notinphenofile,5
+ordCat,6
+start.catSin,2
+start.int,13
+success.continuous,9
+success.ordCat,6

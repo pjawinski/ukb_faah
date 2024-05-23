@@ -1,0 +1,20 @@
+4204_0|| CAT-SINGLE || Inc(>=10): 0(94899) || Inc(>=10): 1(16534) || CAT-SINGLE-BINARY || sample 94899/16534(111433) || SUCCESS results-logistic-binary 
+4205_0 || Variable could not be found in pheno info file. 
+4206_0 || Variable could not be found in pheno info file. 
+4207_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (107) || 
+4229_0 || Variable could not be found in pheno info file. 
+4230_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+4232_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+4233_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+4234_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+4235_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+4236_0 || Variable could not be found in pheno info file. 
+4237_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+4238_0 || Variable could not be found in pheno info file. 
+4239_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || Bin 1: ==0, bin 2: > 0 AND <0.1333333bin 3: >=0.1333333 || cat N: 49218, 28250, 32234 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+4240_0 || Variable could not be found in pheno info file. 
+4241_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+4242_0 || Variable could not be found in pheno info file. 
+4243_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+4244_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+4245_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
