@@ -1,5 +1,5 @@
 
-# Phenome-wide association study of pain- and anxiety-linked endocannabinoid gene variation FAAH C385A
+# Phenome-wide association study of gene variation FAAH C385A
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5cbff8015d14468c9be39983a6a346a1)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![doi](https://img.shields.io/badge/doi-10.1101%2F2023.12.26.23300533-brightgreen)](https://doi.org/10.1101/2023.12.26.23300533)
