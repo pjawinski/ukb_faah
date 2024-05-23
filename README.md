@@ -42,6 +42,7 @@ cd ukb_faah
 
 
 ![alt text](results/combined/surfplot.png "Figure 2")
+
 **Fig. 2**	Associations between FAAH C385A and 220 Freesurfer brain structure variables. Colors reflect the strength and direction of partial product-moment correlations (sex, age, age2, sex x age, sex x age2, assessment center, genotyping array, and the first 10 genetic principal components served as covariates). Brain regions with associations achieving nominal significance (p < 0.05) are colored in red and blue. The effect allele is 'A'.
 
 <br><br><br>
