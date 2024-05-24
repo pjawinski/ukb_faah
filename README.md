@@ -21,7 +21,6 @@ Analyses were run on Debian GNU/Linux 11 (bullseye) with kernel version 5.10.0-2
 - [PHESANT](https://github.com/MRCIEU/PHESANT)
 - [ENIGMA](https://github.com/MICA-MNI/ENIGMA) toolbox v2.0.3 for MATLAB 
 
-
 ## Download
 
 Navigate to your preferred local folder and clone this repository via the following commands:
