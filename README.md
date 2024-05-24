@@ -8,10 +8,10 @@ This repository contains the analysis scripts to reproduce the results presented
 
 ## Folder structure
 
-[code/](code/) - contains preparation files, functions, and analysis scripts<br>
-[envs/](envs/) - contains conda .yml files to recreate our environments<br>
-[results/](results/) - contains result files (individual-level results are not provided due to data privacy policies)<br>
-[run.sh](run.mri.sh) - main analysis file for FAAH C385A phenome-wide associations<br>
+[code/](code/) - contains preparation files, functions, and analysis scripts  
+[envs/](envs/) - contains conda .yml files to recreate our environments  
+[results/](results/) - contains result files (individual-level results are not provided due to data privacy policies)  
+[run.sh](run.mri.sh) - main analysis file for FAAH C385A phenome-wide associations  
 
 
 ## Software requirements
@@ -31,10 +31,8 @@ git clone https://github.com/pjawinski/ukb_faah
 cd ukb_faah
 ```
 
-- please see the primary analysis file [run.sh](run.sh) for a step-by-step guide through the individual analysis procedures
-
-
-<br>
+- please see the primary analysis file [run.sh](run.sh) for a step-by-step guide through the individual analysis procedures. 
+  
 
 
 ## Results at a glance
@@ -43,7 +41,7 @@ cd ukb_faah
 **Fig. 1** Results of the phenome-wide association analysis for FAAH C385A in up to 340,863 unrelated white-British ancestry UK Biobank individuals. The solid horizontal line indicates the Bonferroni-adjusted level of significance (p<2.3e-06), correcting for 21,624 tested associations.
 
 <br><br><br>
-
+  
 
 
 ![alt text](results/combined/surfplot.png "Figure 2")
