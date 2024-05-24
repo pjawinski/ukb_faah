@@ -28,13 +28,13 @@ mkdir -p data/genotypes/meta
 wget -P data/genotypes/meta biobank.ndph.ox.ac.uk/ukb/ukb/docs/ukb_genetic_data_description.txt
 wget -P data/genotypes/meta biobank.ctsu.ox.ac.uk/ukb/ukb/auxdata/ukb_snp_bim.tar
 wget -P data/genotypes/meta biobank.ctsu.ox.ac.uk/ukb/ukb/auxdata/ukb_snp_qc.txt
-./data/genotypes/ukbgene rel -a./${keyfile}; \mv *rel* data/genotypes/meta/ # get relatedness
+./data/genotypes/ukbgene rel -a./"${keyfile}"; \mv ./*rel* data/genotypes/meta/ # get relatedness
 
 # get genotype .bed .bim .fam
 mkdir -p data/genotypes/chr1
-./data/genotypes/ukbgene cal -c1 -a./${keyfile}; \mv *.bed data/genotypes/chr1/ # get genotype calls (.bed file)
-./data/genotypes/ukbgene cal -c1 -a./${keyfile} -m; \mv *.fam data/genotypes/chr1/ukb_cal_chr1_v2.fam # get individual ids (.fam file)
-tar -xvf data/genotypes/meta/ukb_snp_bim.tar ukb_snp_chr1_v2.bim; \mv *.bim data/genotypes/chr1/ukb_cal_chr1_v2.bim
+./data/genotypes/ukbgene cal -c1 -a./"${keyfile}"; \mv ./*.bed data/genotypes/chr1/ # get genotype calls (.bed file)
+./data/genotypes/ukbgene cal -c1 -a./"${keyfile}" -m; \mv ./*.fam data/genotypes/chr1/ukb_cal_chr1_v2.fam # get individual ids (.fam file)
+tar -xvf data/genotypes/meta/ukb_snp_bim.tar ukb_snp_chr1_v2.bim; \mv ./*.bim data/genotypes/chr1/ukb_cal_chr1_v2.bim
 
 # extract faah snp
 plink \
