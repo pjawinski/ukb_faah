@@ -1,5 +1,5 @@
 
-# Phenome-wide association study of gene variation FAAH C385A
+# Phenome-wide association study of FAAH C385A
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b30dabd96d704857a4edd92005cb5891)](https://app.codacy.com/gh/pjawinski/ukb_faah/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
