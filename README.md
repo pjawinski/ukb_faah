@@ -8,9 +8,9 @@ This repository contains the analysis scripts to reproduce the results presented
 
 ## Folder structure
 
-[code/](code/) - contains preparation files, functions, and analysis scripts  
-[envs/](envs/) - contains conda .yml files to recreate our environments  
-[results/](results/) - contains result files (individual-level results are not provided due to data privacy policies)  
+[code](code/) - contains preparation files, functions, and analysis scripts  
+[envs](envs/) - contains conda .yml files to recreate our environments  
+[results](results/) - contains result files (individual-level results are not provided due to data privacy policies)  
 [run.sh](run.mri.sh) - main analysis file for FAAH C385A phenome-wide associations  
 
 ## Software requirements
