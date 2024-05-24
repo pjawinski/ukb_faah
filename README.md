@@ -13,7 +13,6 @@ This repository contains the analysis scripts to reproduce the results presented
 [results/](results/) - contains result files (individual-level results are not provided due to data privacy policies)  
 [run.sh](run.mri.sh) - main analysis file for FAAH C385A phenome-wide associations  
 
-
 ## Software requirements
 
 Analyses were run on Debian GNU/Linux 11 (bullseye) with kernel version 5.10.0-23-amd64. Scripts to install the required bioinformatic tools are provided in folder [code/prepare/](code/prepare/). We recommend [mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html) for installing conda environments. The following tools are required to reproduce our results:
@@ -32,8 +31,6 @@ cd ukb_faah
 ```
 
 - please see the primary analysis file [run.sh](run.sh) for a step-by-step guide through the individual analysis procedures. 
-  
-
 
 ## Results at a glance
 
@@ -41,8 +38,6 @@ cd ukb_faah
 **Fig. 1** Results of the phenome-wide association analysis for FAAH C385A in up to 340,863 unrelated white-British ancestry UK Biobank individuals. The solid horizontal line indicates the Bonferroni-adjusted level of significance (p<2.3e-06), correcting for 21,624 tested associations.
 
 <br><br><br>
-  
-
 
 ![alt text](results/combined/surfplot.png "Figure 2")
 
@@ -50,14 +45,10 @@ cd ukb_faah
 
 <br><br><br>
 
-
-
 ![alt text](results/combined/phewas.qq.png "Figure 3")
 **Fig. 3** Quantile-quantile plots showing the observed p-values from the phenome-scan vs. the expected p-values under the null hypothesis of no effect. Left-deflations from the solid diagonal line are interpreted as 'stronger evidence than expected under the null'.
 
 <br><br><br>
-
-
 
 ![alt text](results/combined/phewas.anxiety.png "Figure 4")
 
